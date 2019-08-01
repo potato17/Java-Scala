@@ -1,0 +1,5 @@
+there are 3 way of gettung inp;ut in java:
+
+_ call bufferreader class from buffereader class file
+_ String : continous flow of input, in java is consider as class , a predefined class
+- NEXT referes to scanner 
